@@ -13,6 +13,10 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
+<modules>
+        <module>api</module>
+        <module>utils</module>
+        <module>microservices</module>
+    </modules>
 
 </project>
